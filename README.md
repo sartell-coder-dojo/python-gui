@@ -25,3 +25,5 @@ If neither command gives the expected output, follow the instructions at https:/
 With python3 installed, run
 
 `sudo pip3 install guizero`
+
+or follow the instructions at https://lawsie.github.io/guizero/
